@@ -1,0 +1,17 @@
+{
+  "name": "conduit-hub-backend",
+  "version": "1.0.0",
+  "description": "Backend for aggregating Psiphon Conduit metrics from multiple servers",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bamdad",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "node-fetch": "^3.3.2"
+  }
+}
