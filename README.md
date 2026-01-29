@@ -93,5 +93,4 @@ Possible improvements:
 
 Designed by Bamdad • 2026  
 For freedom of the internet.
-```
 
